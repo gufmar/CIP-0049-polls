@@ -10,8 +10,16 @@
         "epoch_report": 71
       },
       {
+        "title": "Test",
+        "tx_id": "ddfa16d28ce38288411a75c5d3561bb74066bcd5468c1b1d871a27d74fbd89e2",
+        "description": "Trial poll: Reward sharing scheme satisfaction",
+        "epoch_cast": 68,
+        "epoch_delegation": 71,
+        "epoch_report": 72
+      },
+      {
         "title": "Test 2",
-        "tx_id": "d8c6a27d74fbddfa16d28ce3828841bb741b1d87111a75c5d35066bcd54689e2",
+        "tx_id": "d1d87111a75c5d35066bcd58c6a27d74fbddfa16d28ce3828841bb741b4689e2",
         "description": "lorem ipsum solala",
         "epoch_cast": 123,
         "epoch_delegation": 124,
@@ -19,10 +27,10 @@
       },
       {
         "title": "One more test",
-        "tx_id": "d8c1b1d871a27d74f1a75c5d3561bb74066bcd54689e2bddfa16d28ce3828841",
+        "tx_id": "dbddfa16d28ce38288c1b1d871a27d74f1a75c5d3561bb74066bcd54689e2841",
         "description": "asdafasdaf ",
-        "epoch_cast": 67,
-        "epoch_delegation": 68,
+        "epoch_cast": 70,
+        "epoch_delegation": 72,
         "epoch_report": 90
       }
 	  
